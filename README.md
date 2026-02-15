@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**adela320/adela320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Adela. I'm an undergraduate student at Universitatea Politehnica Timișoara, studying **Computer and Information Technology**.
 
-Here are some ideas to get you started:
+## 💻 Languages
+- C
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning (Additional Courses)
+Besides my university curriculum, I am currently studying:
+- SQL
+- Cloud Architecture
+- Software Testing (Web, API & Automated Testing)
+
+## 🌱 About Me
+I am interested in improving my programming skills, learning modern technologies, and building practical projects as I continue my studies.
