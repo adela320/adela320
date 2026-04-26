@@ -9,7 +9,6 @@ My name is Adela. I'm an undergraduate student at Universitatea Politehnica Timi
 
 ## 📚 Currently Learning (Additional Courses)
 Besides my university curriculum, I am currently studying:
-- SQL
 - Cloud Architecture
 - Software Testing (Web, API & Automated Testing)
 
