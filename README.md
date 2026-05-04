@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is Adela. I'm an undergraduate student at Universitatea Politehnica Timișoara, studying **Computer and Information Technology**.
+My name is Adela. I am an undergraduate student at Politehnica University of Timișoara, studying Computer and Information Technology.
 
 ## 💻 Languages
 - C
